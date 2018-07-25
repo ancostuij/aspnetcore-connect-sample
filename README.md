@@ -1,5 +1,5 @@
 # Microsoft Graph Connect Sample for ASP.NET Core 2.0
-# Anco was here
+# Anco was here!
 
 ## Table of contents
 
